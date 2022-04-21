@@ -49,3 +49,11 @@ pip install --upgrade tf_slim
 
 ```
 
+# Attention (2022 21 Apr added)
+
+in the source code we can see "tf_pose.xxx" in the relative source.
+But you don't need to install tf_pose 
+
+tf_pose destory dependancy and downgrade your relative module such a tensorflow from 2.x.x to 1.x.x.
+If you installed tf_pose, you'd better uninstall and remove relative files from site-package etc.
+
