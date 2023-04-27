@@ -57,3 +57,9 @@ But you don't need to install tf_pose
 tf_pose destory dependancy and downgrade your relative module such a tensorflow from 2.x.x to 1.x.x.
 If you installed tf_pose, you'd better uninstall and remove relative files from site-package etc.
 
+# Update (2023Apr)
+
+I added man-hour calculation simple script added.
+It is use to take cam and save data as csv file.
+after that csv converter and EXcel VBA create your man-hour easlity.
+
