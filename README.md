@@ -65,7 +65,7 @@ after that csv converter and EXcel VBA create your man-hour easlity.
 
 # Update (2023Jun)
 
-C:\Users\Manyan\Dropbox\スクリーンショット
+
 
 
 
