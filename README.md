@@ -65,7 +65,7 @@ after that csv converter and EXcel VBA create your man-hour easlity.
 
 # Update (2023Jun)
 
-
+![calculate Standard time]C:\Users\Manyan\Dropbox\スクリーンショット\スクリーンショット 2022-04-18 12.45.12.png "sample")
 
 
 
