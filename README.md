@@ -63,3 +63,9 @@ I added man-hour calculation simple script added.
 It is use to take cam and save data as csv file.
 after that csv converter and EXcel VBA create your man-hour easlity.
 
+# Update (2023Jun)
+
+C:\Users\Manyan\Dropbox\スクリーンショット
+
+
+
