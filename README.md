@@ -64,6 +64,4 @@ It is use to take cam and save data as csv file.
 after that csv converter and EXcel VBA create your man-hour easlity.
 
 # Update (2023Jun)
-
-<img src="C:\Users\Manyan\Dropbox\スクリーンショット\スクリーンショット 2022-04-18 12.45.12.png" title="サンプル">
-
+Modify calculation maintainance. to use easier.You can easy make Standartd time.
