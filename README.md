@@ -5,6 +5,14 @@ This source refrence  is under [jiajunhua repo](https://github.com/jiajunhua/ild
 
 And tf-pose-estimation's Openpose', human pose estimation algorithm [Repo](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 
+> [!NOTE]
+>  Update about Pose estimation / working time calculation function
+> - Changing Pytorch platform. Please check poseestimation
+
+https://github.com/mi-kaneyon/poseestimation
+
+
+
 # Modification from ildoonet-tf-pose-estimation
 
 * Available to use under tensorflow 2.x
